@@ -6,7 +6,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 
-[Live Demo](https://unireach-ai-demo.vercel.app) *(Update this link after deployment)*
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMohsenjedi%2Funireach-ai-hackathon&root-directory=unireach-ai)
+
+[Live Demo](https://unireach-ai-hackathon.vercel.app)
 
 ---
 
